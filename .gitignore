@@ -1,0 +1,12 @@
+# OS generated trash
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+[Ee]hthumbs.db
+[Tt]humbs.db
+
+/out/
+/node_modules/
+/package-lock.json
